@@ -1,0 +1,7 @@
+nama = input('Siapa nama kamu :')
+nim = input('Nim Kamu :')
+kota = input('Kota asal kamu :')
+print('\n')
+print(f"Nama kamu berawalan huruf : {nama[0]}")
+print(f'Nim Kamu Adalah : {nim}')
+print(f'Kota Asal Kamu Di : {kota}')
